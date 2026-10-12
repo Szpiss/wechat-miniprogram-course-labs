@@ -1,0 +1,93 @@
+.profile {
+  display: flex;
+  align-items: center;
+  margin: 10rpx 0 28rpx;
+}
+.avatar-button {
+  padding: 0;
+  background: transparent;
+  margin: 10rpx 20rpx 10rpx 0;
+  line-height: 1;
+}
+.avatar {
+  width: 100rpx;
+  height: 100rpx;
+  border: 3rpx solid #bfc7d2;
+  border-radius: 50%;
+  display: block;
+}
+.nickname {
+  font-size: 30rpx;
+  width: 330rpx;
+  font-weight: 600;
+}
+.city {
+  margin-left: auto;
+  min-width: 55rpx;
+  white-space: nowrap;
+  color: #2468ec;
+  font-size: 24rpx;
+}
+.banner {
+  height: 350rpx;
+  border-radius: 28rpx;
+  overflow: hidden;
+}
+.banner image {
+  width: 100%;
+  height: 100%;
+}
+.banner-copy {
+  position: absolute;
+  top: 40rpx;
+  left: 36rpx;
+  font-size: 38rpx;
+  font-weight: 700;
+  color: #284767;
+}
+.banner-copy text {
+  font-size: 24rpx;
+  font-weight: 400;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  background: white;
+  border-radius: 28rpx;
+  padding: 12rpx;
+}
+.service {
+  width: 33.333%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24rpx;
+}
+.service-icon {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 24rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 34rpx;
+  margin-bottom: 16rpx;
+  color: #2468ec;
+  background: #e6efff;
+}
+.icon-1 {
+  background: #ffecd9;
+  color: #b87b39;
+}
+.icon-2 {
+  background: #e5f2e8;
+  color: #48845b;
+}
+.tip {
+  margin-top: 28rpx;
+}
+.tip .title {
+  font-size: 32rpx;
+}
+
+.profile button.avatar-button{width:100rpx;min-width:100rpx;flex:0 0 100rpx;margin:10rpx 20rpx 10rpx 0;}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mv4s2lyg",
+    "name": "课程演示同学",
+    "gender": "男",
+    "skills": [
+      "JavaScript",
+      "WXML"
+    ],
+    "opinion": "希望增加更多实操案例",
+    "createdAt": "2026-10-12T04:54:38.248Z"
+  },
+  {
+    "id": "mv4s7xn7",
+    "name": "课程演示同学",
+    "gender": "男",
+    "skills": [
+      "JavaScript",
+      "WXML"
+    ],
+    "opinion": "希望增加更多实操案例",
+    "createdAt": "2026-10-12T04:58:46.675Z"
+  }
+]

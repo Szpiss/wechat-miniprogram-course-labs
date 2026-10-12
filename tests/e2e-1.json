@@ -1,0 +1,19 @@
+{
+  "experiment": 1,
+  "results": [
+    {
+      "name": "九宫格与轮播显示",
+      "status": "PASS"
+    },
+    {
+      "name": "昵称设置与保存",
+      "status": "PASS"
+    },
+    {
+      "name": "九宫格跳转和反馈",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "at": "2026-10-12T05:30:42.089Z"
+}

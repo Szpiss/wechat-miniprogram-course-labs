@@ -1,0 +1,1 @@
+function format(v){v=''+v;if(v.length===11)return v.slice(0,3)+'-'+v.slice(3,7)+'-'+v.slice(7);return v}module.exports={format:format};

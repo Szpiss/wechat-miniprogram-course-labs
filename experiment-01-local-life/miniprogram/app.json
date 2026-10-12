@@ -1,0 +1,11 @@
+{
+  "pages": ["pages/index/index", "pages/detail/detail"],
+  "window": {
+    "navigationBarTitleText": "本地生活",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f4f6fa"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

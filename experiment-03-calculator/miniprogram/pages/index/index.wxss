@@ -1,0 +1,98 @@
+.calculator {
+  min-height: 100vh;
+  padding: 40rpx 28rpx;
+  background: #f2f4f8;
+}
+.brand {
+  font-size: 24rpx;
+  letter-spacing: 4rpx;
+  color: #858fa0;
+}
+.theme {
+  font-size: 24rpx;
+  padding: 0 24rpx;
+  margin: 0;
+  background: #e3e8f0;
+}
+.display {
+  padding: 100rpx 10rpx 50rpx;
+  text-align: right;
+  height: 340rpx;
+}
+.expression {
+  font-size: 28rpx;
+  color: #8992a3;
+  height: 48rpx;
+  overflow: hidden;
+}
+.number {
+  font-size: 68rpx;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.keys {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+}
+.key {
+  width: 23%;
+  height: 108rpx;
+  line-height: 108rpx;
+  background: white;
+  margin: 1%;
+  padding: 0;
+  font-size: 40rpx;
+  border-radius: 24rpx;
+}
+.operator,
+.equal {
+  background: #2468ec;
+  color: white;
+}
+.zero {
+  width: 48%;
+}
+.function {
+  background: #dfe5ee;
+  font-size: 30rpx;
+}
+.hint {
+  text-align: center;
+  color: #8992a3;
+  font-size: 22rpx;
+  margin-top: 32rpx;
+}
+.dark {
+  background: #171c28;
+  color: #f5f6fa;
+}
+.dark .key {
+  background: #293141;
+  color: #fff;
+}
+.dark .operator,
+.dark .equal {
+  background: #4d7dff;
+}
+.dark .theme,
+.dark .function {
+  background: #3b4659;
+  color: #fff;
+}
+
+.calculator .keys button.key {
+  width: 23%;
+  flex: 0 0 23%;
+  margin: 1%;
+  box-sizing: border-box;
+}
+.calculator .keys button.zero {
+  width: 48%;
+  flex-basis: 48%;
+}
+.calculator .row button.theme {
+  margin: 0;
+  line-height: 60rpx;
+  height: 60rpx;
+}

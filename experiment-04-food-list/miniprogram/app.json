@@ -1,0 +1,11 @@
+{
+  "pages": ["pages/shoplist/shoplist"],
+  "window": {
+    "navigationBarTitleText": "美食列表",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f4f6fa"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

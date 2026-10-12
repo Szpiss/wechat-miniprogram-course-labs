@@ -1,0 +1,19 @@
+{
+  "experiment": 5,
+  "results": [
+    {
+      "name": "服务器问卷动态渲染",
+      "status": "PASS"
+    },
+    {
+      "name": "空表单校验与单多选输入",
+      "status": "PASS"
+    },
+    {
+      "name": "HTTP提交与成功回执",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "at": "2026-10-12T04:58:47.169Z"
+}

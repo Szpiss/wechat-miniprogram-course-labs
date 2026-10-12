@@ -1,0 +1,16 @@
+# Local dependencies and OS files
+node_modules/
+.DS_Store
+**/.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+# Runtime submissions; published demonstration evidence lives in tests/fixtures/
+experiment-*/server/data/*.json
+experiment-*/server/data/*.tmp
+# Editor and temporary files
+.vscode/
+.idea/
+~$*.docx
+*.tmp

@@ -1,0 +1,140 @@
+page {
+  background: #101b31;
+  color: #eaf0fd;
+}
+.music-app {
+  padding: 28rpx;
+}
+.tabs {
+  padding: 16rpx 36rpx;
+  font-size: 30rpx;
+  color: #8092af;
+}
+.selected {
+  color: #fff;
+  font-weight: 700;
+}
+.pages {
+  height: calc(100vh - 140rpx);
+}
+.library {
+  height: 100%;
+}
+.search {
+  background: #24334f;
+  border-radius: 20rpx;
+  padding: 22rpx;
+  margin: 22rpx 0;
+  color: white;
+}
+.playlists {
+  white-space: nowrap;
+  margin-bottom: 28rpx;
+}
+.playlist {
+  display: inline-block;
+  margin-right: 16rpx;
+  padding: 16rpx 22rpx;
+  border-radius: 24rpx;
+  background: #24334f;
+  font-size: 24rpx;
+}
+.playlist.active {
+  background: #507ced;
+}
+.track {
+  display: flex;
+  align-items: center;
+  background: #1b2943;
+  border-radius: 22rpx;
+  margin-bottom: 18rpx;
+  padding: 20rpx;
+}
+.track image {
+  width: 105rpx;
+  height: 105rpx;
+  border-radius: 16rpx;
+  margin-right: 22rpx;
+}
+.track-name {
+  font-size: 30rpx;
+  margin-bottom: 12rpx;
+}
+.muted {
+  color: #97a8c5;
+}
+.playing-label {
+  margin-left: auto;
+  font-size: 22rpx;
+  color: #9db7ff;
+}
+.player {
+  height: 100%;
+}
+.cover {
+  width: 340rpx;
+  height: 340rpx;
+  border-radius: 50%;
+  display: block;
+  margin: 28rpx auto;
+}
+.song {
+  text-align: center;
+  font-size: 38rpx;
+  font-weight: 600;
+}
+.artist {
+  text-align: center;
+  color: #97a8c5;
+  font-size: 22rpx;
+  padding-top: 12rpx;
+}
+.lyrics {
+  height: 190rpx;
+  margin: 24rpx 0;
+  text-align: center;
+}
+.lyric {
+  font-size: 26rpx;
+  color: #7486a4;
+  padding: 14rpx;
+}
+.lyric.current-line {
+  color: #fff;
+  font-weight: 600;
+}
+.times {
+  font-size: 22rpx;
+  color: #97a8c5;
+  padding: 0 20rpx;
+}
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24rpx;
+  margin-top: 20rpx;
+}
+.controls button {
+  background: #24334f;
+  color: white;
+  margin: 0;
+  font-size: 26rpx;
+}
+.controls .play {
+  background: #507ced;
+  padding: 8rpx 36rpx;
+}
+.extras {
+  display: flex;
+  justify-content: space-around;
+  margin: 28rpx 0;
+}
+.extras button {
+  background: transparent;
+  color: #9db7ff;
+  margin: 0;
+  font-size: 24rpx;
+}
+
+input.search{height:90rpx;line-height:40rpx;font-size:28rpx;}

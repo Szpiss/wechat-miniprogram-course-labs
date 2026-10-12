@@ -1,0 +1,992 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 187,
+    "sha256": "908700d2d972c8123f3cd3dc3befc2f5cbdf5f4a93c09f8cb7dcdb6e5d28a843"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 307,
+    "sha256": "7ae9aef74d470fef6d79a5aa62b751743a74b783b9d290ef84f27e4ae42bec70"
+  },
+  {
+    "path": "ASSETS.md",
+    "bytes": 728,
+    "sha256": "fb09beccb86d5d6288a3a0261e61640f8a8a5437c6f6156fbd6ea55fe9711c18"
+  },
+  {
+    "path": "FINAL_ACCEPTANCE.md",
+    "bytes": 2681,
+    "sha256": "e5aff0fe9786ea5b3a85c9e39ea4a882848f9780c71679c1ffae648055c26c5c"
+  },
+  {
+    "path": "PROJECT_PROGRESS.md",
+    "bytes": 895,
+    "sha256": "81e4c017a864957c833c49c96e54a304ea2031dba2555ea4f3efe09ff4f91b81"
+  },
+  {
+    "path": "README.md",
+    "bytes": 16400,
+    "sha256": "649fe1de00b811be2d6095cac706492c2f3c64b3ce2f562b7a43fa7d00119351"
+  },
+  {
+    "path": "TEMPLATE_FIDELITY.md",
+    "bytes": 1099,
+    "sha256": "0885c8b668142bdd7052ab2e1e56c5b686a77d37cb2ba4e242a776988aba1a27"
+  },
+  {
+    "path": "TEST_REPORT.md",
+    "bytes": 2797,
+    "sha256": "5df04b5ff05b97396a7f6910e6cb5d1a8c1334336459299ad43e57f7260d621c"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/app.js",
+    "bytes": 25,
+    "sha256": "77a7b30904e6afa54998f7b33e57eca5c56afce9c6ca70b4ed41d08cc0e4c015"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/app.json",
+    "bytes": 298,
+    "sha256": "11fea5b679b4a6c8b5ee0d0a3d61b5627158f9cbfa26f3774681a99560e21825"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/app.wxss",
+    "bytes": 31,
+    "sha256": "826f875306c50aa564fc659fc247a598eba3d522e24b9d6cc15439e67a4e00dc"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/assets/avatar.png",
+    "bytes": 1199,
+    "sha256": "b13c842af958417eec9d3fe8ae820c42f44f88de47d3cbcaf963e1e11ab1d7b8"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/assets/cover1.png",
+    "bytes": 4197,
+    "sha256": "6b08d6c358c964f71137928ab536442b91cd8ac2a6ee843594cfb22015350cd3"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/assets/cover2.png",
+    "bytes": 4195,
+    "sha256": "e44b319fb54036048e31de4a0a2626c09e329c7ce3adb772a8595f8a6e3ba942"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/assets/cover3.png",
+    "bytes": 4196,
+    "sha256": "7eda1db4e47cd512620669112d07406089795174d36634582038f963a8ff10d3"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/pages/detail/detail.js",
+    "bytes": 440,
+    "sha256": "7d530c0c1ef70e1f9c5edd8f02bb766fa764bb304949bf33bf2df55798a0480b"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/pages/detail/detail.json",
+    "bytes": 47,
+    "sha256": "889f2d25f64e2911b115ce16a535d5c8888f444a0736cb34a5821d44a3810448"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/pages/detail/detail.wxml",
+    "bytes": 246,
+    "sha256": "7f0093f94ec35435499d8cce466bb26a8ac291fb9b3a90de60a57e3ee45c0040"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/pages/detail/detail.wxss",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/pages/index/index.js",
+    "bytes": 1651,
+    "sha256": "9d83072e07b9606db0362c47ef1d4a53b42c320098d1909ee7ef9c3b355b2a89"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/pages/index/index.json",
+    "bytes": 47,
+    "sha256": "889f2d25f64e2911b115ce16a535d5c8888f444a0736cb34a5821d44a3810448"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/pages/index/index.wxml",
+    "bytes": 1112,
+    "sha256": "3baa963da014b1e2ce9690c2f91233fef1fc8ef4771a0d10f6f3251a2362689f"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/pages/index/index.wxss",
+    "bytes": 1527,
+    "sha256": "adc6bddce314829fd9725bb6e096022e54c38969205b33f2572cb871d8be27f4"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/sitemap.json",
+    "bytes": 76,
+    "sha256": "3552173b6e45a4127d0377edd9262bbbac300490f9af3dca75f22029f0b120be"
+  },
+  {
+    "path": "experiment-01-local-life/miniprogram/styles/common.wxss",
+    "bytes": 1129,
+    "sha256": "cdfb667d4a7bbf284a1657216ce38db4603e647c79cd9e4e804c5376f8fc0c0e"
+  },
+  {
+    "path": "experiment-01-local-life/project.config.json",
+    "bytes": 395,
+    "sha256": "4f0a91840fe3f010df61cdb99b7fc58adb53dd031159ce04b908934dd1c4123c"
+  },
+  {
+    "path": "experiment-01-local-life/project.private.config.json",
+    "bytes": 101,
+    "sha256": "ac3110bc6f6662c4c8ff449af2820c8117255558e5bac215851a294727922f95"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/app.js",
+    "bytes": 926,
+    "sha256": "323a2643c2caa0df42ca41f0ed428b17cd7c348c9ebc3cc41044f31812319a3e"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/app.json",
+    "bytes": 886,
+    "sha256": "62bf3cf920054b326316c64794e8fbe395b2f7c40f3410b86c5eb24ec58f3a0c"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/app.wxss",
+    "bytes": 355,
+    "sha256": "54e337943de7d6ed5d38af5fc34926f1ec25f5aa0fdcfdf80b83443b67ab6200"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/assets/avatar.png",
+    "bytes": 1199,
+    "sha256": "b13c842af958417eec9d3fe8ae820c42f44f88de47d3cbcaf963e1e11ab1d7b8"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/assets/cover1.png",
+    "bytes": 5775,
+    "sha256": "fbc6b9a892a14369558a3639182a674e19cb95cb76bb832945ac9fac0a9506cb"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/assets/cover2.png",
+    "bytes": 5772,
+    "sha256": "d2527b57e93f2434c9b69e6c3dd68ebd895537c1ee9de48449a74f60df5625e3"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/assets/cover3.png",
+    "bytes": 5777,
+    "sha256": "c71a27e11f5ff929f5d3c47979ba45e37cec18728ad62d3814ba0956d558d529"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/assets/track1.mp3",
+    "bytes": 36943,
+    "sha256": "25c11486d6d2aa858dd5716373e070041e0f61b6a1fcb4ead13e8cf2d1c3ae16"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/assets/track2.mp3",
+    "bytes": 37418,
+    "sha256": "58d6f18842ef1dc7ae841d4a0e9739760ad20bcb4d389a8836920f708f58d501"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/assets/track3.mp3",
+    "bytes": 39008,
+    "sha256": "1420352b35f5d6d56a2ffe37d1cf078bcf94c64c3e5ea2aad6a713d9f663c801"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/assets/wedding.mp4",
+    "bytes": 239771,
+    "sha256": "a5efde08884108daa832b68d650fd94dda85e7816d90336d18c9fb383a6ba78b"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/config.js",
+    "bytes": 98,
+    "sha256": "9e6c5bd98244d82159ba10ac0f9733d4f859d5852ac3fa7938f030f7e0613eb7"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/guest/guest.js",
+    "bytes": 1272,
+    "sha256": "1ad6793a10f6c71b6b1f6a8b6c79050787aab0b14d3a53ed3de041e530a2a5e3"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/guest/guest.json",
+    "bytes": 50,
+    "sha256": "7859f0d94a51cc9fb8af9649c17bfec97a77c0c4ca95e09b95e38076a40819ea"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/guest/guest.wxml",
+    "bytes": 995,
+    "sha256": "c344644cb987d244cdcfcdc587556730aae47025b368a093a74192f86590ee12"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/guest/guest.wxss",
+    "bytes": 144,
+    "sha256": "af1e9452448b0503fb63c4316351b5fe05b90d8c963469c7ff1bfba2a434c611"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/invite/invite.js",
+    "bytes": 270,
+    "sha256": "5cba8d7787ddd9c51c58b136681ae90eb5cf2970e5df8a6bd13dc836b5355261"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/invite/invite.json",
+    "bytes": 50,
+    "sha256": "7859f0d94a51cc9fb8af9649c17bfec97a77c0c4ca95e09b95e38076a40819ea"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/invite/invite.wxml",
+    "bytes": 710,
+    "sha256": "2cd1a422ea92e98e8e1925181a9895b7667e0785a98b6f55ca826ed3ce810208"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/invite/invite.wxss",
+    "bytes": 355,
+    "sha256": "9d3262d845f837e735ac844fe03e200cf8ae7eabbfcc6c9cad0d47550df656b7"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/moments/moments.js",
+    "bytes": 740,
+    "sha256": "cdf9f528072ae65f537a6632b2b161dbea516ed10160a0b603bed0f6ad1674ec"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/moments/moments.json",
+    "bytes": 50,
+    "sha256": "7859f0d94a51cc9fb8af9649c17bfec97a77c0c4ca95e09b95e38076a40819ea"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/moments/moments.wxml",
+    "bytes": 495,
+    "sha256": "a227fa10b3b34c39dbd316239ea18924a746370a7dbdc5e8bfd931e7b79160d2"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/moments/moments.wxss",
+    "bytes": 67,
+    "sha256": "4b8e43fa17de16b77e07e7adf0f4d11fbd4f3b7b4d4383634a0ec3a2b778d2b1"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/photos/photos.js",
+    "bytes": 443,
+    "sha256": "bb901f638dcea0663c34a750cac739c8bfff0bd84cfdd15d6a4e12d83864a757"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/photos/photos.json",
+    "bytes": 50,
+    "sha256": "7859f0d94a51cc9fb8af9649c17bfec97a77c0c4ca95e09b95e38076a40819ea"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/photos/photos.wxml",
+    "bytes": 627,
+    "sha256": "f98720fad4a972094c648726b3deff69f903cea426a457606bf12ade85a04204"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/pages/photos/photos.wxss",
+    "bytes": 464,
+    "sha256": "0453a311ed545eb9a235fc7a61e4831163ac81ef72c008cd79325d1bef7f5ed1"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/sitemap.json",
+    "bytes": 76,
+    "sha256": "3552173b6e45a4127d0377edd9262bbbac300490f9af3dca75f22029f0b120be"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/styles/common.wxss",
+    "bytes": 1129,
+    "sha256": "cdfb667d4a7bbf284a1657216ce38db4603e647c79cd9e4e804c5376f8fc0c0e"
+  },
+  {
+    "path": "experiment-02-wedding/miniprogram/utils/request.js",
+    "bytes": 505,
+    "sha256": "0fa0f01839886a7faaa1df928cf82e63c9ba0b36e04686795694b14254ad4210"
+  },
+  {
+    "path": "experiment-02-wedding/project.config.json",
+    "bytes": 422,
+    "sha256": "931c6226c64e214d4835a176caa2232044e3fa97a930d08c891fe73feeee887a"
+  },
+  {
+    "path": "experiment-02-wedding/project.private.config.json",
+    "bytes": 101,
+    "sha256": "ac3110bc6f6662c4c8ff449af2820c8117255558e5bac215851a294727922f95"
+  },
+  {
+    "path": "experiment-02-wedding/server/index.js",
+    "bytes": 4050,
+    "sha256": "0465ccf8dda89bb189d20dfdb6e00d5c7e4e5e957b5f4cf93daf6ec22be56513"
+  },
+  {
+    "path": "experiment-02-wedding/server/package.json",
+    "bytes": 174,
+    "sha256": "e30ed2896d60a76026942460f435319ad8cef92b8aeecca353345414c9e9260e"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/app.js",
+    "bytes": 163,
+    "sha256": "1160ff962f7ffdd59cee779e933e197dbca63a08f9f23e95b71efba724bb7bb3"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/app.json",
+    "bytes": 272,
+    "sha256": "b5ae89395693a1230e27602f8d8a81a7fa8961354f142fc9487521b53afa8cbc"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/app.wxss",
+    "bytes": 31,
+    "sha256": "826f875306c50aa564fc659fc247a598eba3d522e24b9d6cc15439e67a4e00dc"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/pages/index/index.js",
+    "bytes": 941,
+    "sha256": "b52c49058c97830ad1cd0fb1a99d708bb2c072797189f38b78e4be4d23bd65de"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/pages/index/index.json",
+    "bytes": 44,
+    "sha256": "3e8158e346e878b340147a69f6564acc5c9de38310b5162feb7e3a924ba1cce7"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/pages/index/index.wxml",
+    "bytes": 632,
+    "sha256": "da52b090e966c8bcb628522af1699c2c8475b2b7fd11c8ccf730dcc4d077bf52"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/pages/index/index.wxss",
+    "bytes": 1430,
+    "sha256": "df01ec8d279107ca808780787497fe46266327e5e97ee03359e68cb6ef588e24"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/sitemap.json",
+    "bytes": 76,
+    "sha256": "3552173b6e45a4127d0377edd9262bbbac300490f9af3dca75f22029f0b120be"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/styles/common.wxss",
+    "bytes": 1129,
+    "sha256": "cdfb667d4a7bbf284a1657216ce38db4603e647c79cd9e4e804c5376f8fc0c0e"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/utils/calc.js",
+    "bytes": 2222,
+    "sha256": "3fc34193896f85468416b5da94854df2cb1581b409dc49690f610cb8c34291d6"
+  },
+  {
+    "path": "experiment-03-calculator/miniprogram/utils/math.js",
+    "bytes": 933,
+    "sha256": "00e17db17f3e88b73fcc73ff0884a6976b94b0e10f21958ed7caccba65b6dcec"
+  },
+  {
+    "path": "experiment-03-calculator/project.config.json",
+    "bytes": 416,
+    "sha256": "ecc26db2e49c2ec057fe0b8c55b133cfdcf6303610642e6a2ca45ef70d06b48a"
+  },
+  {
+    "path": "experiment-03-calculator/project.private.config.json",
+    "bytes": 101,
+    "sha256": "ac3110bc6f6662c4c8ff449af2820c8117255558e5bac215851a294727922f95"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/app.js",
+    "bytes": 25,
+    "sha256": "77a7b30904e6afa54998f7b33e57eca5c56afce9c6ca70b4ed41d08cc0e4c015"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/app.json",
+    "bytes": 281,
+    "sha256": "852aa590f9570cbd4dfbad93d2c7534ebee3a9babbbc515a3899f7ef1e4e2683"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/app.wxss",
+    "bytes": 31,
+    "sha256": "826f875306c50aa564fc659fc247a598eba3d522e24b9d6cc15439e67a4e00dc"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/assets/avatar.png",
+    "bytes": 1199,
+    "sha256": "b13c842af958417eec9d3fe8ae820c42f44f88de47d3cbcaf963e1e11ab1d7b8"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/assets/cover1.png",
+    "bytes": 8870,
+    "sha256": "cc48e8cd75be552f909d20b29713a1462591369d6b4d7bf046c878b41bf43b2a"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/assets/cover2.png",
+    "bytes": 8892,
+    "sha256": "089d42d681f18af8a2fd010d74437cdd9807d067539c2b85203e95ca149b8b10"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/assets/cover3.png",
+    "bytes": 8893,
+    "sha256": "f2cb6a8cbfc1dcb2494d3f8e7a98378db8fb7c75a049e3cac0afe12a1e72d233"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/config.js",
+    "bytes": 98,
+    "sha256": "04d07180045bc3eca1df3eaa8aa20e084a7d8d847acf78cd2fc3c8155a5b0907"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/pages/shoplist/shoplist.js",
+    "bytes": 2321,
+    "sha256": "1741e76ed287df1ffdb943a24cfdb98e0d0305797ef0e282ac9a42824f590c04"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/pages/shoplist/shoplist.json",
+    "bytes": 80,
+    "sha256": "52888777252fda1f54cb2747a297b296864af9c316926c86ca425e89b1bbec37"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/pages/shoplist/shoplist.wxml",
+    "bytes": 1435,
+    "sha256": "babb62c5fa8aef5e938e49ab224383cce87d50b4709e7a1a5a9eae651cf359a6"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/pages/shoplist/shoplist.wxss",
+    "bytes": 1376,
+    "sha256": "143110d2a9439babf31c032ea20e4ef3eb13379dbba42b43534fa0048d46e283"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/sitemap.json",
+    "bytes": 76,
+    "sha256": "3552173b6e45a4127d0377edd9262bbbac300490f9af3dca75f22029f0b120be"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/styles/common.wxss",
+    "bytes": 1129,
+    "sha256": "cdfb667d4a7bbf284a1657216ce38db4603e647c79cd9e4e804c5376f8fc0c0e"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/utils/phone.wxs",
+    "bytes": 136,
+    "sha256": "edee63c0de0b7bc10d4574db4c9029cdb9d203dfec31e88273d302fcb9ca65e3"
+  },
+  {
+    "path": "experiment-04-food-list/miniprogram/utils/request.js",
+    "bytes": 505,
+    "sha256": "0fa0f01839886a7faaa1df928cf82e63c9ba0b36e04686795694b14254ad4210"
+  },
+  {
+    "path": "experiment-04-food-list/project.config.json",
+    "bytes": 419,
+    "sha256": "6e6ed5a94aa63bb93f2ba7eef759751a42c998d7fba996413ecc81460babc359"
+  },
+  {
+    "path": "experiment-04-food-list/project.private.config.json",
+    "bytes": 101,
+    "sha256": "ac3110bc6f6662c4c8ff449af2820c8117255558e5bac215851a294727922f95"
+  },
+  {
+    "path": "experiment-04-food-list/server/foods.json",
+    "bytes": 15105,
+    "sha256": "6f00265ddf63d9aa900794ad3e1bc795583566d0262a86945132766679e65217"
+  },
+  {
+    "path": "experiment-04-food-list/server/index.js",
+    "bytes": 4055,
+    "sha256": "d982e16fa3513f249ccaa942a63b97b09b13c499001ac561a6b5be93f0c020ce"
+  },
+  {
+    "path": "experiment-04-food-list/server/package.json",
+    "bytes": 176,
+    "sha256": "40b413f5679919ad25b5f5541e13a73fb6aa71170c5cd25e8f3973705db15625"
+  },
+  {
+    "path": "experiment-05-questionnaire/CLOUD_SETUP.md",
+    "bytes": 1083,
+    "sha256": "827fcfa7d594ebd9793561bf82162f7a2d15ffa33e456e3415ff76070216b19b"
+  },
+  {
+    "path": "experiment-05-questionnaire/cloud/upsertUserData/index.js",
+    "bytes": 1401,
+    "sha256": "b9f6795af98cd5b07c9701dd802cf8f2cc7fed4fe677c0c80eb4e516989bea22"
+  },
+  {
+    "path": "experiment-05-questionnaire/cloud/upsertUserData/package.json",
+    "bytes": 132,
+    "sha256": "f85217544df4260f66c9346f82cb9d3be645d9d1df4f48da8a2270d6c1f7c7a9"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/app.js",
+    "bytes": 167,
+    "sha256": "45fca1d75668f1036fcafb9ab143e0a1097d243594041dad45fb661a94903ab1"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/app.json",
+    "bytes": 273,
+    "sha256": "ffb682e70d594c817dcb19a525ee2461881179e200a8fd91b354f63260b588e0"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/app.wxss",
+    "bytes": 31,
+    "sha256": "826f875306c50aa564fc659fc247a598eba3d522e24b9d6cc15439e67a4e00dc"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/config.js",
+    "bytes": 98,
+    "sha256": "ae8fb73cf7bca7c9c228d240e7b82751d26ce1740126cf179c5b08dd0386b37e"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/pages/form/form.js",
+    "bytes": 2776,
+    "sha256": "86bff257e4d1a9ee3837a7370f076b6a30d79a019bc777b3226eee12aff2dce4"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/pages/form/form.json",
+    "bytes": 47,
+    "sha256": "0d999dae46996b494616b42f768e2800234cd1b98438c8aec65a18b872d66594"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/pages/form/form.wxml",
+    "bytes": 1638,
+    "sha256": "911b1a37d592736cdb850b099dec4919a68639117778e082deca8a39de2962f5"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/pages/form/form.wxss",
+    "bytes": 267,
+    "sha256": "ff63742ae304a741c36f186c75bf82bd69252c6232a52b044c49e85498b494ac"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/sitemap.json",
+    "bytes": 76,
+    "sha256": "3552173b6e45a4127d0377edd9262bbbac300490f9af3dca75f22029f0b120be"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/styles/common.wxss",
+    "bytes": 1129,
+    "sha256": "cdfb667d4a7bbf284a1657216ce38db4603e647c79cd9e4e804c5376f8fc0c0e"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/utils/cloud.js",
+    "bytes": 1082,
+    "sha256": "305f4cc701103b945f83432dfe382a412ec29e8f49159f2bed19082f5f4f90c0"
+  },
+  {
+    "path": "experiment-05-questionnaire/miniprogram/utils/request.js",
+    "bytes": 505,
+    "sha256": "0fa0f01839886a7faaa1df928cf82e63c9ba0b36e04686795694b14254ad4210"
+  },
+  {
+    "path": "experiment-05-questionnaire/project.config.json",
+    "bytes": 451,
+    "sha256": "4b308c9e26f3991a637624cbb3cec43cef397d7e892583e54e73c6fc54aef9b4"
+  },
+  {
+    "path": "experiment-05-questionnaire/project.private.config.json",
+    "bytes": 101,
+    "sha256": "ac3110bc6f6662c4c8ff449af2820c8117255558e5bac215851a294727922f95"
+  },
+  {
+    "path": "experiment-05-questionnaire/server/index.js",
+    "bytes": 4520,
+    "sha256": "acb34fd3feebc2f420dcad2438cdfd3be961f62eadd970da48989a04d18d9a0a"
+  },
+  {
+    "path": "experiment-05-questionnaire/server/package.json",
+    "bytes": 180,
+    "sha256": "5f7dfd0d69b41a6b461617ce7093e5d1030c37ffa5064957f6416b3c9c1eb44c"
+  },
+  {
+    "path": "experiment-05-questionnaire/server/questions.json",
+    "bytes": 528,
+    "sha256": "c479fc66965b007f94b08637f68bd02096a4da6c1b6dee3483ada142ffd00eb7"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/app.js",
+    "bytes": 1551,
+    "sha256": "78dc8aa389e7e1a264f80a8040e3d7519f2e455cc85f239366c852230b78ed5b"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/app.json",
+    "bytes": 318,
+    "sha256": "75ffc71549dcb8af3efa70066d34b0652eb7f9674e58899749c63b347d1354eb"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/app.wxss",
+    "bytes": 31,
+    "sha256": "826f875306c50aa564fc659fc247a598eba3d522e24b9d6cc15439e67a4e00dc"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/assets/avatar.png",
+    "bytes": 1199,
+    "sha256": "b13c842af958417eec9d3fe8ae820c42f44f88de47d3cbcaf963e1e11ab1d7b8"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/assets/cover1.png",
+    "bytes": 8546,
+    "sha256": "7726ec192dba10b9d0ff5afb1ff9e065c3260b4aa8c51830fe8e8530eb3a5d11"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/assets/cover2.png",
+    "bytes": 8551,
+    "sha256": "720bf1024a01383d91ef78c541ae385286c649ce6b8437210d5042b0591df37c"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/assets/cover3.png",
+    "bytes": 8548,
+    "sha256": "815c62c2e640bc58b154b0e50a0ebc054cac14d5f45530aa50c2148e75fb52a9"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/assets/track1.mp3",
+    "bytes": 36943,
+    "sha256": "25c11486d6d2aa858dd5716373e070041e0f61b6a1fcb4ead13e8cf2d1c3ae16"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/assets/track2.mp3",
+    "bytes": 37418,
+    "sha256": "58d6f18842ef1dc7ae841d4a0e9739760ad20bcb4d389a8836920f708f58d501"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/assets/track3.mp3",
+    "bytes": 39008,
+    "sha256": "1420352b35f5d6d56a2ffe37d1cf078bcf94c64c3e5ea2aad6a713d9f663c801"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/config.js",
+    "bytes": 98,
+    "sha256": "426b0d366e97dcdbba7bfba63877858e0b74ac3fa1902a6dd2cc62da2c82dae3"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/includes/library.wxml",
+    "bytes": 889,
+    "sha256": "610cb58d074ce19af72d24655e291c2ddc3830e3c742cd19ce6d231924157d06"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/includes/player.wxml",
+    "bytes": 1041,
+    "sha256": "8b00bd8db6524e39b207c6ebcf8fd42d92c16599aa5ebcf7cd1813ab294c2394"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/pages/index/index.js",
+    "bytes": 4624,
+    "sha256": "45aa677d8996e9a1c7373700771baf73d9c36c0b54bd32dbe7e7e9bd8fc5bd24"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/pages/index/index.json",
+    "bytes": 50,
+    "sha256": "0a503aaa0eea077d3cf22fe3a7f4cdc6a56514b1f7418b96f6c532586c929e50"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/pages/index/index.wxml",
+    "bytes": 566,
+    "sha256": "e9dd0ff6c110d47ce3b946d053201aee8292943e0f0b56498d44314fe7dc5f0c"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/pages/index/index.wxss",
+    "bytes": 2137,
+    "sha256": "9c0ebf45f9bbb032a0694c46c0f662d12f953b8babbef1f65ad4f3c17ffc1f90"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/sitemap.json",
+    "bytes": 76,
+    "sha256": "3552173b6e45a4127d0377edd9262bbbac300490f9af3dca75f22029f0b120be"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/styles/common.wxss",
+    "bytes": 1129,
+    "sha256": "cdfb667d4a7bbf284a1657216ce38db4603e647c79cd9e4e804c5376f8fc0c0e"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/utils/lyrics.js",
+    "bytes": 725,
+    "sha256": "2f7f0520d7a2ed7839ed968da38d33653a4ebc91f10ecede8590500b6ee5992b"
+  },
+  {
+    "path": "experiment-06-music-player/miniprogram/utils/request.js",
+    "bytes": 505,
+    "sha256": "0fa0f01839886a7faaa1df928cf82e63c9ba0b36e04686795694b14254ad4210"
+  },
+  {
+    "path": "experiment-06-music-player/project.config.json",
+    "bytes": 421,
+    "sha256": "dff9e65f01240d9741df0657e6039246d6a9944cce4d978e99f5edaaad9ad239"
+  },
+  {
+    "path": "experiment-06-music-player/project.private.config.json",
+    "bytes": 101,
+    "sha256": "ac3110bc6f6662c4c8ff449af2820c8117255558e5bac215851a294727922f95"
+  },
+  {
+    "path": "experiment-06-music-player/server/index.js",
+    "bytes": 3627,
+    "sha256": "7b9854986e2e4b39813c478a014ef149a105313597c364b8e67dcf8cb19d2c39"
+  },
+  {
+    "path": "experiment-06-music-player/server/package.json",
+    "bytes": 179,
+    "sha256": "fa426d171f9d7fbb9abf7520ffe0b2b4cc6a8c719d6d00e648d155c821963504"
+  },
+  {
+    "path": "experiment-06-music-player/server/tracks.json",
+    "bytes": 1116,
+    "sha256": "97e122ef18d9fb3d852204915e10d84493f7d040c8a62511e6a404637e805cf9"
+  },
+  {
+    "path": "package-lock.json",
+    "bytes": 34916,
+    "sha256": "ea2c44235c087ff7630be5e2a394581a7ee5dc162e417c53f720b278f4a63ffc"
+  },
+  {
+    "path": "package.json",
+    "bytes": 431,
+    "sha256": "7066bccb30d189bf9fb64b29f3e16f9d83bb6f2176f4da7b1c16822f158ad67c"
+  },
+  {
+    "path": "reports/2315302125崔子霖 实验1 实验报告.docx",
+    "bytes": 1089560,
+    "sha256": "2e888d5dfd04a608fe68ceeb8e42b00e11b0aab085291dd8e6ff76d1fd75a4fd"
+  },
+  {
+    "path": "reports/2315302125崔子霖 实验2 实验报告.docx",
+    "bytes": 573738,
+    "sha256": "ada28b52e892cb057256d1b9ff08bc543c92293513854e275635ad4ce5ae78c6"
+  },
+  {
+    "path": "reports/2315302125崔子霖 实验3 实验报告.docx",
+    "bytes": 637420,
+    "sha256": "8cb8b89142247430704935cc2a856b83bfb04d8493431c0cbd25fb22f66b7a43"
+  },
+  {
+    "path": "reports/2315302125崔子霖 实验4 实验报告.docx",
+    "bytes": 674572,
+    "sha256": "5917e98019ada1a8a5934163d32be331c94c890306af4a1f226bc6fa30f8d52a"
+  },
+  {
+    "path": "reports/2315302125崔子霖 实验5 实验报告.docx",
+    "bytes": 835617,
+    "sha256": "c110235a61ad3f7dc220d115332304d8a33ca4aa61bb06513629eaae63865dca"
+  },
+  {
+    "path": "reports/2315302125崔子霖 实验6 实验报告.docx",
+    "bytes": 315602,
+    "sha256": "0a3e845ff636afa00e66bb59e7136c19bbfcb61d2ded7d3c3f5af23c3fd30d81"
+  },
+  {
+    "path": "screenshots/experiment-01/01-home.png",
+    "bytes": 60927,
+    "sha256": "81601dcd05c1cef26eca30b41f779ffb1d02cc5dd35408ee91dc31908c1b60cf"
+  },
+  {
+    "path": "screenshots/experiment-01/02-profile.png",
+    "bytes": 63365,
+    "sha256": "90c5c045e181f13d33f9cc6e76df6c9cc945d2851b16c3696a48b0f2054d3954"
+  },
+  {
+    "path": "screenshots/experiment-01/03-detail.png",
+    "bytes": 33127,
+    "sha256": "d77ce9c1728b8eae91aa27de2e23189d1ce1be412654b10fc315a3fbc41572e3"
+  },
+  {
+    "path": "screenshots/experiment-02/01-invite.png",
+    "bytes": 43493,
+    "sha256": "6e43b0a349b6bedde12e4f41e2ee240c456f860efcf02e6cbf8206882bef709a"
+  },
+  {
+    "path": "screenshots/experiment-02/02-music.png",
+    "bytes": 43313,
+    "sha256": "913f58696e08ed5ef8498485d6a94dbbd6f5b261832c6f6ac098b1901ecc2622"
+  },
+  {
+    "path": "screenshots/experiment-02/03-photos.png",
+    "bytes": 30888,
+    "sha256": "b47dfb2cb623cf3cc333a1e9396f3e77a3ff349f5fe0c874df3868ee7ffd1648"
+  },
+  {
+    "path": "screenshots/experiment-02/04-video.png",
+    "bytes": 24882,
+    "sha256": "70f4c4d38244d39bd054f8fb968471afbf395e77dabaa9454f2854b07b54c7ff"
+  },
+  {
+    "path": "screenshots/experiment-02/05-guest.png",
+    "bytes": 32850,
+    "sha256": "e88b77003da8d8cc8ec11d65fdd01d0774caac6dc93f0f1ba610330d7513a20a"
+  },
+  {
+    "path": "screenshots/experiment-03/01-light.png",
+    "bytes": 32506,
+    "sha256": "2d2e8ba833bde88911219070c516bfd305568311193085b12c0511beddbed4eb"
+  },
+  {
+    "path": "screenshots/experiment-03/02-dark.png",
+    "bytes": 34707,
+    "sha256": "ac5e7f49218e3099bfd996d82e898f4f791272e4be0db8ea58fb26d980a45e01"
+  },
+  {
+    "path": "screenshots/experiment-03/03-zero-error.png",
+    "bytes": 36473,
+    "sha256": "13fe16b24e728e71f277d0020d9ff3f0ef4207faaba41a4fae5006ed36d3affb"
+  },
+  {
+    "path": "screenshots/experiment-03/04-scientific.png",
+    "bytes": 38808,
+    "sha256": "c61cb9ccbee4765a5b86ba4c00f39bd6c399259d28e9a25bdbccbc0cabb8cb0b"
+  },
+  {
+    "path": "screenshots/experiment-03/05-breakpoint.png",
+    "bytes": 127275,
+    "sha256": "3534d77386a89961a674141d1945492696b36706025d3c86355ab26efd955518"
+  },
+  {
+    "path": "screenshots/experiment-04/01-foods.png",
+    "bytes": 89321,
+    "sha256": "f6da7f546e62583b480f9076e661a32a58419ba7f11cfb7f83c522397e7219af"
+  },
+  {
+    "path": "screenshots/experiment-04/02-next-page.png",
+    "bytes": 92644,
+    "sha256": "e76c62b267335825b7e73dafbbcd515c83117fd9c054062a1d8596552bc0f03d"
+  },
+  {
+    "path": "screenshots/experiment-04/03-category.png",
+    "bytes": 49751,
+    "sha256": "1cb32c56a898cd22a04dc9346a1451aa838d4e725b8dc518f8b172cb91d5d225"
+  },
+  {
+    "path": "screenshots/experiment-04/04-refresh.png",
+    "bytes": 84633,
+    "sha256": "7b2c1dea6521ba41851596841937c4bb7516852b3df923173a9e49a4660c088c"
+  },
+  {
+    "path": "screenshots/experiment-05/01-form.png",
+    "bytes": 51904,
+    "sha256": "51e060e325b8d5b6d18ff46a0766c4d27bec3b6c64af1c8311c49d39c65e31c6"
+  },
+  {
+    "path": "screenshots/experiment-05/02-filled.png",
+    "bytes": 55799,
+    "sha256": "407e144a0bc46b14f0c528df69c732d22f4b7445b3b5cf56fd9735e7c7964ae7"
+  },
+  {
+    "path": "screenshots/experiment-05/03-submitted.png",
+    "bytes": 44812,
+    "sha256": "dd8dd7a4c36199d58c0e5cfedeae4f8e12cb9cdc7e159bbaa4ca7f18d488ec91"
+  },
+  {
+    "path": "screenshots/experiment-06/01-library.png",
+    "bytes": 46396,
+    "sha256": "85bf451a71986a406da2a40036b4a4f558332cb1fa1a630abd0b7b907acf427d"
+  },
+  {
+    "path": "screenshots/experiment-06/02-search.png",
+    "bytes": 26615,
+    "sha256": "6c06f3ece63d399ed64c32033d91c7489e7ed47cc9fac63edf741493ffa2e777"
+  },
+  {
+    "path": "screenshots/experiment-06/03-player.png",
+    "bytes": 48959,
+    "sha256": "299273deeb8aa01d89c2ec4a78e98ec14fcce911b7a278e702d81c3a06049b5d"
+  },
+  {
+    "path": "screenshots/experiment-06/04-lyrics.png",
+    "bytes": 50859,
+    "sha256": "48b1b1981f23e08c1408faca54ea5beb36de629995d8baa5e13b0ddeadad1e54"
+  },
+  {
+    "path": "screenshots/experiment-06/05-playlist-favorite.png",
+    "bytes": 49470,
+    "sha256": "7c9d70a440abe1a03d2696435b6eedf63a8644f0bc0797d775ff3bf4caef8fdb"
+  },
+  {
+    "path": "screenshots/experiment-06/06-study-playlist.png",
+    "bytes": 38313,
+    "sha256": "3ccd7b04e682ee17512aa28b2b03d7d2f82ba7c3d65caef136aa453aef615cd2"
+  },
+  {
+    "path": "source/学号姓名 实验1 实验报告.docx",
+    "bytes": 971023,
+    "sha256": "0c89e7d9d2d0b1c779a172aac11be64799f55c29d7871b08ecf45afa63b23380"
+  },
+  {
+    "path": "source/学号姓名 实验2 实验报告.doc",
+    "bytes": 463360,
+    "sha256": "560b6af8d5fe0d9978ff267ea6d430c077042eb5a1a8d9b927259b9c931004bc"
+  },
+  {
+    "path": "source/学号姓名 实验3 实验报告.doc",
+    "bytes": 733696,
+    "sha256": "5275432132731b95053f8f9c089924bed30c8bcd911b8d25f2c79fa2b1b06b01"
+  },
+  {
+    "path": "source/学号姓名 实验4 实验报告.docx",
+    "bytes": 379264,
+    "sha256": "80afa3058b21257e32087ba85b9d98e719aac220bb9da2ff5f75446ba782ec07"
+  },
+  {
+    "path": "source/学号姓名 实验5 实验报告.doc",
+    "bytes": 800256,
+    "sha256": "0a47e2542c051ab562ff623c7788386f3c1caef77ae9bf9bc315daa2a95d515f"
+  },
+  {
+    "path": "source/学号姓名 实验6 实验报告 .doc",
+    "bytes": 101376,
+    "sha256": "d59ccdc75d767a4f3c51fa4686063929d84daa4c8b3fd70317eb2a8760cd5dc6"
+  },
+  {
+    "path": "start-servers.js",
+    "bytes": 767,
+    "sha256": "feaf4464d88a74befcc5f5025a117db67d3931b29f7ed574f9d4532d3dd1b057"
+  },
+  {
+    "path": "tests/core-results.json",
+    "bytes": 1518,
+    "sha256": "547f9ef72e4b4bd74556e1d96c9cb795dec67e7514b5f3e67ee0e2f6c6d148cb"
+  },
+  {
+    "path": "tests/e2e-1.json",
+    "bytes": 323,
+    "sha256": "9a3ffe0d85154d982e9286c7271ece1cfc53d9256e9cd4263486622fcdae8356"
+  },
+  {
+    "path": "tests/e2e-2.json",
+    "bytes": 426,
+    "sha256": "e4f16501bbac742fed5bd3d0123bf953007fb45f2705012201c468f308892b5f"
+  },
+  {
+    "path": "tests/e2e-3.json",
+    "bytes": 412,
+    "sha256": "57da04e79cfc42c8832c4650ace2c487432dd0ce689263e1f524d09e04e12ac9"
+  },
+  {
+    "path": "tests/e2e-4.json",
+    "bytes": 399,
+    "sha256": "01a1e279dc6fd710698dda1613c31c4d46f471747f6036f5081be9fb5b6bb090"
+  },
+  {
+    "path": "tests/e2e-5.json",
+    "bytes": 339,
+    "sha256": "fbcc7c58dd78efcd065eb08c73e570c59ffe4047b15402dff98a17927d06b42b"
+  },
+  {
+    "path": "tests/e2e-6.json",
+    "bytes": 422,
+    "sha256": "f077a45e969ecd519eafec979e2896a236eeafca159f3e2a50be83e9c087ee06"
+  },
+  {
+    "path": "tests/e2e.js",
+    "bytes": 10715,
+    "sha256": "203d3d076b30cbaaacaed0bf6831d0b58a28cf705f011d91276281a701835623"
+  },
+  {
+    "path": "tests/fixtures/demo-guests.json",
+    "bytes": 358,
+    "sha256": "47dd485ed6b2d0331b052cfa1283ac905a1e22937966119d2fd73c54765e5220"
+  },
+  {
+    "path": "tests/fixtures/demo-questionnaires.json",
+    "bytes": 472,
+    "sha256": "139b4eb3550186c2dc99fa26ce505781598555c19144cf936b5e250ba96461bd"
+  },
+  {
+    "path": "tests/http-results.json",
+    "bytes": 464,
+    "sha256": "3812f784810b286a8e31315177f653e2ca7cc482fd5017a095c09c902c0a19d2"
+  },
+  {
+    "path": "tests/report-layout-review.json",
+    "bytes": 14199,
+    "sha256": "54646c962fe104dc2406ef7f8e5e000b4ee3f050b92d6b2776e222abe589f6a5"
+  },
+  {
+    "path": "tests/template-audit.json",
+    "bytes": 3438,
+    "sha256": "beb4973f6020571e22bae0754181b769ad6c5d7d7984fecaf0c68b853c80d2ef"
+  },
+  {
+    "path": "tests/test-core.js",
+    "bytes": 2984,
+    "sha256": "4e4293c12afa06274a54d2f17fd4d7195c66565fc1ca90be07b79658da7e57dd"
+  },
+  {
+    "path": "tests/test-http.js",
+    "bytes": 3083,
+    "sha256": "b86891177bdbd3589c8da9328cca096988f6be34d4bf5e2fbb1c9de7240958dc"
+  }
+]

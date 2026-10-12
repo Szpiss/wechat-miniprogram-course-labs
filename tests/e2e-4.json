@@ -1,0 +1,23 @@
+{
+  "experiment": 4,
+  "results": [
+    {
+      "name": "HTTP列表与WXS格式",
+      "status": "PASS"
+    },
+    {
+      "name": "滚动触底分页",
+      "status": "PASS"
+    },
+    {
+      "name": "分类重置与双向筛选",
+      "status": "PASS"
+    },
+    {
+      "name": "下拉刷新重新请求",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "at": "2026-10-12T05:17:25.275Z"
+}

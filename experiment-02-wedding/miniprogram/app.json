@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/invite/invite",
+    "pages/photos/photos",
+    "pages/moments/moments",
+    "pages/guest/guest"
+  ],
+  "window": {
+    "navigationBarTitleText": "婚礼邀请函",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f4f6fa"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "requiredBackgroundModes": ["audio"],
+  "tabBar": {
+    "color": "#9b8180",
+    "selectedColor": "#ab5c64",
+    "backgroundColor": "#fff9f7",
+    "list": [
+      {
+        "pagePath": "pages/invite/invite",
+        "text": "邀请函"
+      },
+      {
+        "pagePath": "pages/photos/photos",
+        "text": "照片"
+      },
+      {
+        "pagePath": "pages/moments/moments",
+        "text": "美好时光"
+      },
+      {
+        "pagePath": "pages/guest/guest",
+        "text": "宾客"
+      }
+    ]
+  }
+}

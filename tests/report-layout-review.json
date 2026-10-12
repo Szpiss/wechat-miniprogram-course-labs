@@ -1,0 +1,391 @@
+[
+  {
+    "experiment": 1,
+    "status": "PASS",
+    "report_sha256": "2e888d5dfd04a608fe68ceeb8e42b00e11b0aab085291dd8e6ff76d1fd75a4fd",
+    "pages": 9,
+    "review": "All pages visually reviewed; unchanged template pages also verified byte-identical to reviewed prior renders.",
+    "page_checks": [
+      {
+        "page": 1,
+        "render_sha256": "e647c763c988c5555bd293d957551c51aabffed535b31cb5aba759830d9658a7",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 2,
+        "render_sha256": "364fddcee104aa08d192dcf33a67283fbb3806b3f588a2c5089bf2e9b9f81241",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 3,
+        "render_sha256": "0165c3d11cb0fda7e3207416b30ccc5b517f4cf7bc4d57ccfbcbb93a4c770c43",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 4,
+        "render_sha256": "da8f0d8fe0c1e12024cb4feac60d81d6edb49626c2c8d1527fb67d65e0777c48",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 5,
+        "render_sha256": "fe6b680b07e52ecc7473d5c825742453b10d14236ea424c30a295fe0777c4b1e",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 6,
+        "render_sha256": "fbbc8597f0694aa685b0664814e05e2e271fbe2ded7a215e319cf39967010d40",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 7,
+        "render_sha256": "c166b4052805967365746f32b9e752e9fbbfaca2e319b5ebaa834657f8f0898e",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 8,
+        "render_sha256": "eb4aa773c282afa83d006879a8282715705b9923e667f4fa656267050bf64aa3",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 9,
+        "render_sha256": "515c6eedbbffe979061ea99686cadef4d28e40901e7cd7ac6dfb3cc7536e1b7f",
+        "method": "visually_reviewed_final_render"
+      }
+    ]
+  },
+  {
+    "experiment": 2,
+    "status": "PASS",
+    "report_sha256": "ada28b52e892cb057256d1b9ff08bc543c92293513854e275635ad4ce5ae78c6",
+    "pages": 11,
+    "review": "All pages visually reviewed; unchanged template pages also verified byte-identical to reviewed prior renders.",
+    "page_checks": [
+      {
+        "page": 1,
+        "render_sha256": "d24f227d34405824954fe4b97c7d90fd2816e5aa361fb0bb23e6585ea167b2b7",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 2,
+        "render_sha256": "b05e0bdb5ed6f9901db869ad9cd9c93db06a006d78c51408040ea1fd4464c30c",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 3,
+        "render_sha256": "ac1bab4c3cce641db2c6912059e19a92d947d3dde7c158cf24a7366a727da2d7",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 4,
+        "render_sha256": "4a7a2aad1567952d0f642c10197d6e073c1110682b951447f87376782bcd363c",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 5,
+        "render_sha256": "ee91cb83e8b71c88822ddd9b27ded764d3cdad36d1f9977701d6ca2da41423ce",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 6,
+        "render_sha256": "7666189aa0bb81799a81e59f83741976a1bb8b5fc7a657c7568d53376ce5311d",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 7,
+        "render_sha256": "5fa93966e4dd1dd4699f35a399425edb131eba7dedbbdd7bab0f6d45cfe1f687",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 8,
+        "render_sha256": "c8ab7e77a55dc5ea4c42b7d1e2063f7e53c3b20ff797a625315eaa20fe8b2a58",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 9,
+        "render_sha256": "76ebda6c30e7adef636a2b9b6a45fcd9f873e0b63856a29e8d8f374238a278fc",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 10,
+        "render_sha256": "7a5e8f3553daaf259f0d38392ce57a91c7e6f498a013fc741b81eee375b251f4",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 11,
+        "render_sha256": "76c195744bfa8a872b03980ee8955d521bcae5494f255eac27728603e538d30f",
+        "method": "visually_reviewed_final_render"
+      }
+    ]
+  },
+  {
+    "experiment": 3,
+    "status": "PASS",
+    "report_sha256": "8cb8b89142247430704935cc2a856b83bfb04d8493431c0cbd25fb22f66b7a43",
+    "pages": 12,
+    "review": "All pages visually reviewed; unchanged template pages also verified byte-identical to reviewed prior renders.",
+    "page_checks": [
+      {
+        "page": 1,
+        "render_sha256": "d24f227d34405824954fe4b97c7d90fd2816e5aa361fb0bb23e6585ea167b2b7",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 2,
+        "render_sha256": "29477dd27a57a66a0913452d6e17080459fcabe8c5f9bf5d061349913a374610",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 3,
+        "render_sha256": "cc0738944b4dee29c119d00577a62ef0e89fb958257d471a14928ba6b6efffe3",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 4,
+        "render_sha256": "6bd1f33a6210910233ef777740148e0861d42746e2e58b00c0f503cec7fe104f",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 5,
+        "render_sha256": "ae24f5172d3d4b15980c0c3934236a0a89a53f8d02267107ecc4564f35f104e2",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 6,
+        "render_sha256": "1391e4d2b0e078531066c804999eeb0395b9a492d90ab0434065832dd7e77ab6",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 7,
+        "render_sha256": "506e731ffe4fc8ce4d8f0d5c03cb787b53e2f43b9374617635b0aa96302a85fe",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 8,
+        "render_sha256": "3d04d64b3084902805b08f89c5aceff9a433ce40cb725828f45bf98102dda8e9",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 9,
+        "render_sha256": "508a966efabb72fd93d3afbe71d9f394fd5e77586477070ece9b38cfa22d5ae7",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 10,
+        "render_sha256": "0ba9e731ab90ee628fb1e66f666b685a9d308dc0921a51fc7d9f2b2675f716fe",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 11,
+        "render_sha256": "8b3adeeb950b6faa2bba68c060be3c634ef2741a5a78d2a1eba33aa3d48ffdfc",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 12,
+        "render_sha256": "b980a09b5a06acce1c39999b1c13684b9daf27f91dfe434ca9c2733d7cd95ce3",
+        "method": "visually_reviewed_final_render"
+      }
+    ]
+  },
+  {
+    "experiment": 4,
+    "status": "PASS",
+    "report_sha256": "5917e98019ada1a8a5934163d32be331c94c890306af4a1f226bc6fa30f8d52a",
+    "pages": 11,
+    "review": "All pages visually reviewed; unchanged template pages also verified byte-identical to reviewed prior renders.",
+    "page_checks": [
+      {
+        "page": 1,
+        "render_sha256": "ee68b80cca0850ca788d266166387111d13fbe270a6d447a72d52da871933de4",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 2,
+        "render_sha256": "32c5ed2378420219078915dffcdde9c101201f8dcf0aee97097b9dfeeca8a468",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 3,
+        "render_sha256": "a0934b70c0e49de02c1d6b7c06ac983f7fd375c2ec825628b3b4c14976bc31b4",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 4,
+        "render_sha256": "39b8afd2a7a08f6fc4db2f200e72c02d3bc3a75e9cb232172c52ac8acb527bb5",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 5,
+        "render_sha256": "f7fdb738bffe39b87f903e8fc82bd0f1df2d57e16cbb2496fa904807669ddc07",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 6,
+        "render_sha256": "cbe517fde7df660c401df498a02c0e59bd7632f891911b33c299115b0c2f88f9",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 7,
+        "render_sha256": "a4e21d29dc44ee0aea8c2940e641993a348fd36631b4a3d6a7cd6564a3aa978b",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 8,
+        "render_sha256": "6c20ef8cb7f1a73c742968849f862b98931a631b394d5fb0975f48370cef7900",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 9,
+        "render_sha256": "5816702c1d79759e0b05aba92a7748165b58a2ae5483372f3a00c1d0ecc82454",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 10,
+        "render_sha256": "6cf69b6ef53c090068da2d9ac5bfe91343cbd869b02bb94e665078ec43bd623c",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 11,
+        "render_sha256": "7a7e08c263457cb1af006791e1212fa9efd4febfd36e7b24e201941386c33dcd",
+        "method": "visually_reviewed_final_render"
+      }
+    ]
+  },
+  {
+    "experiment": 5,
+    "status": "PASS",
+    "report_sha256": "c110235a61ad3f7dc220d115332304d8a33ca4aa61bb06513629eaae63865dca",
+    "pages": 15,
+    "review": "All pages visually reviewed; unchanged template pages also verified byte-identical to reviewed prior renders.",
+    "page_checks": [
+      {
+        "page": 1,
+        "render_sha256": "d24f227d34405824954fe4b97c7d90fd2816e5aa361fb0bb23e6585ea167b2b7",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 2,
+        "render_sha256": "25ca796f152fda0f2bb42d0d01fc19d93a2f705324c60a065d0123ba0444ae79",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 3,
+        "render_sha256": "fdf35c91c0e57b7a0d3b811917b352a786998674d41a3cecc16081c03cce4a8e",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 4,
+        "render_sha256": "b9329d65b2e142cf79794b0b38707058738d7ca3c6866bc8c321e7d03368388e",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 5,
+        "render_sha256": "86b83a3c80293750013c3b873231ecdd3bfadc4960bbfc06d56a2231a71a203d",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 6,
+        "render_sha256": "ede6dfb93d0cb79f5ee91781763cde1bae62b58d27899260d4c180724799ae14",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 7,
+        "render_sha256": "790bf4db6e6f12a6eba044bd2025a619ac889241d74bc290a1ea72e18c5fc38c",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 8,
+        "render_sha256": "0e40e19f2bdfc16d2bc8b59e792bea202c9b432f1d389f79cb4c4c1f0b3e0ea4",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 9,
+        "render_sha256": "78135c44f8cd5cfd632776d6e8cf85019bb73063abca89044532060bfe0ca778",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 10,
+        "render_sha256": "eceb6bdeced8f77f573a59999f26b5383fb6a926fd3c1a966b30269f8cbaf1c1",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 11,
+        "render_sha256": "926403ec99a58368a6790189edae5a477e13b13d5cf3bef8dc81858ced5fc202",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 12,
+        "render_sha256": "846a7d86ebc7ddffb47bff56be440bd62e1195bdba1ae4384a1e58c81a66048a",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 13,
+        "render_sha256": "b4a55d862d2f8b6aff709a1b599d3b432e86f5680dbeca9a5f11d1228f3f75bc",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 14,
+        "render_sha256": "82c3349cbd7e5ef52b069cb4c1198daf21bdfd99f79f6aa7e8169719e1205605",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 15,
+        "render_sha256": "2c60fe16e1c3f5c7374098572606369850261a2087fcb0a9d3631a1a18badb50",
+        "method": "visually_reviewed_final_render"
+      }
+    ]
+  },
+  {
+    "experiment": 6,
+    "status": "PASS",
+    "report_sha256": "0a3e845ff636afa00e66bb59e7136c19bbfcb61d2ded7d3c3f5af23c3fd30d81",
+    "pages": 9,
+    "review": "All pages visually reviewed; unchanged template pages also verified byte-identical to reviewed prior renders.",
+    "page_checks": [
+      {
+        "page": 1,
+        "render_sha256": "d24f227d34405824954fe4b97c7d90fd2816e5aa361fb0bb23e6585ea167b2b7",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 2,
+        "render_sha256": "f654f99eae7288fdb5d9b1e9d9833ef0e2e4070d77fc41eb02175b27384220ec",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 3,
+        "render_sha256": "a39f7a43fe2f3da2e4c8213cfa3cbb7e2c8189a8e344bf35871f88052d0438d4",
+        "method": "identical_to_previously_reviewed_page"
+      },
+      {
+        "page": 4,
+        "render_sha256": "225559157af3149c3de3f01e8adb837a4dd8dc5e82d1be1dd7d96152f6b14640",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 5,
+        "render_sha256": "dbb0113c5ee0ce8d3f52609eab975a6c7c39113a4f1230813ac61d186f703599",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 6,
+        "render_sha256": "2a002688d6540e34e013b7c4fe102f69505b4149ec21eeeff95713d5cd8f6405",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 7,
+        "render_sha256": "538b4f9b76732584bd9f31336b5079ec8cd17b7ca8570652e8fb0902b1c90bf0",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 8,
+        "render_sha256": "d54d134c68dd4011178668041c4877a4e2dfa5c387c3c2a9e6707388b675e4bb",
+        "method": "visually_reviewed_final_render"
+      },
+      {
+        "page": 9,
+        "render_sha256": "85e5fecfdffac0514e171049d2c0faf9aacc0e3306d780f7a3360c520e990dd1",
+        "method": "visually_reviewed_final_render"
+      }
+    ]
+  }
+]

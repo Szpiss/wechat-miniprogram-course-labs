@@ -1,0 +1,145 @@
+[
+  {
+    "experiment": 1,
+    "template_preserved": true,
+    "original_result_labels": [
+      "源代码如下：",
+      "结果截图如下："
+    ],
+    "existing_part_count": 26,
+    "allowed_changes": [
+      {
+        "field": "学号：",
+        "value": "2315302125"
+      },
+      {
+        "field": "姓名：",
+        "value": "崔子霖"
+      }
+    ],
+    "real_screenshots_embedded_unchanged": 3,
+    "report_sha256": "2e888d5dfd04a608fe68ceeb8e42b00e11b0aab085291dd8e6ff76d1fd75a4fd"
+  },
+  {
+    "experiment": 2,
+    "template_preserved": true,
+    "original_result_labels": [
+      "源代码如下：",
+      "结果截图如下："
+    ],
+    "existing_part_count": 13,
+    "allowed_changes": [
+      {
+        "field": "学号：",
+        "value": "2315302125"
+      },
+      {
+        "field": "姓名：",
+        "value": "崔子霖"
+      }
+    ],
+    "real_screenshots_embedded_unchanged": 5,
+    "report_sha256": "ada28b52e892cb057256d1b9ff08bc543c92293513854e275635ad4ce5ae78c6"
+  },
+  {
+    "experiment": 3,
+    "template_preserved": true,
+    "original_result_labels": [
+      "源代码如下：",
+      "结果截图如下："
+    ],
+    "existing_part_count": 15,
+    "allowed_changes": [
+      {
+        "field": "学号：",
+        "value": "2315302125"
+      },
+      {
+        "field": "姓名：",
+        "value": "崔子霖"
+      },
+      {
+        "field": "reference_picture_size"
+      },
+      {
+        "field": "reference_picture_size"
+      }
+    ],
+    "real_screenshots_embedded_unchanged": 5,
+    "report_sha256": "8cb8b89142247430704935cc2a856b83bfb04d8493431c0cbd25fb22f66b7a43"
+  },
+  {
+    "experiment": 4,
+    "template_preserved": true,
+    "original_result_labels": [
+      "源代码如下：",
+      "结果截图如下："
+    ],
+    "existing_part_count": 18,
+    "allowed_changes": [
+      {
+        "field": "学号：",
+        "value": "2315302125"
+      },
+      {
+        "field": "姓名：",
+        "value": "崔子霖"
+      }
+    ],
+    "real_screenshots_embedded_unchanged": 4,
+    "report_sha256": "5917e98019ada1a8a5934163d32be331c94c890306af4a1f226bc6fa30f8d52a"
+  },
+  {
+    "experiment": 5,
+    "template_preserved": true,
+    "original_result_labels": [
+      "源代码如下：",
+      "结果截图如下："
+    ],
+    "existing_part_count": 19,
+    "allowed_changes": [
+      {
+        "field": "学号：",
+        "value": "2315302125"
+      },
+      {
+        "field": "姓名：",
+        "value": "崔子霖"
+      },
+      {
+        "field": "reference_picture_size"
+      },
+      {
+        "field": "reference_picture_size"
+      }
+    ],
+    "real_screenshots_embedded_unchanged": 3,
+    "report_sha256": "c110235a61ad3f7dc220d115332304d8a33ca4aa61bb06513629eaae63865dca"
+  },
+  {
+    "experiment": 6,
+    "template_preserved": true,
+    "original_result_labels": [
+      "1. 新增功能：",
+      "①",
+      "②",
+      "③",
+      "2．新增功能核心代码如下：",
+      "3．功能截图如下：",
+      "4．实验过程中遇到的典型故障及分析："
+    ],
+    "existing_part_count": 10,
+    "allowed_changes": [
+      {
+        "field": "学号：",
+        "value": "2315302125"
+      },
+      {
+        "field": "姓名：",
+        "value": "崔子霖"
+      }
+    ],
+    "real_screenshots_embedded_unchanged": 6,
+    "report_sha256": "0a3e845ff636afa00e66bb59e7136c19bbfcb61d2ded7d3c3f5af23c3fd30d81"
+  }
+]

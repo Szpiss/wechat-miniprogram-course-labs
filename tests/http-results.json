@@ -1,0 +1,26 @@
+[
+  {
+    "name": "宾客接口拒绝非法信息",
+    "status": "PASS"
+  },
+  {
+    "name": "美食接口真实分页及分类",
+    "status": "PASS"
+  },
+  {
+    "name": "非法分页拒绝",
+    "status": "PASS"
+  },
+  {
+    "name": "问卷单多选结构与校验",
+    "status": "PASS"
+  },
+  {
+    "name": "媒体范围请求与合法本地资源",
+    "status": "PASS"
+  },
+  {
+    "name": "独立服务器提交重启持久化",
+    "status": "PASS"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "gender",
+    "type": "radio",
+    "title": "你的性别",
+    "required": true,
+    "options": [
+      "男",
+      "女",
+      "不愿透露"
+    ]
+  },
+  {
+    "id": "skills",
+    "type": "checkbox",
+    "title": "你掌握哪些技术",
+    "required": true,
+    "options": [
+      "JavaScript",
+      "WXML",
+      "WXSS",
+      "Node.js",
+      "云开发"
+    ]
+  },
+  {
+    "id": "opinion",
+    "type": "textarea",
+    "title": "对本课程的建议",
+    "required": true,
+    "maxLength": 300
+  }
+]

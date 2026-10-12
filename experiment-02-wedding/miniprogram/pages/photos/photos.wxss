@@ -1,0 +1,31 @@
+.photo-wrap {
+  position: relative;
+  margin-top: 28rpx;
+}
+.photo-wrap swiper {
+  height: 740rpx;
+  border-radius: 28rpx;
+  overflow: hidden;
+}
+.photo-wrap image {
+  width: 100%;
+  height: 100%;
+}
+.dots {
+  position: absolute;
+  right: 22rpx;
+  top: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 22rpx;
+}
+.dot {
+  width: 20rpx;
+  height: 20rpx;
+  border: 2rpx solid #8f5d62;
+  border-radius: 50%;
+  background: #fff7;
+}
+.active {
+  background: #ab5c64;
+}

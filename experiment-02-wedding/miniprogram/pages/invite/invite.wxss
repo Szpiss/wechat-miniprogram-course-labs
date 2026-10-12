@@ -1,0 +1,24 @@
+.invitation {
+  text-align: center;
+  margin-top: 24rpx;
+}
+.eyebrow {
+  font-size: 22rpx;
+  letter-spacing: 4rpx;
+  color: #b6787d;
+  margin: 18rpx 0 28rpx;
+}
+.date {
+  margin: 38rpx 0 16rpx;
+  font-weight: 600;
+}
+.contacts {
+  display: flex;
+  gap: 20rpx;
+  margin-top: 28rpx;
+}
+.contacts button {
+  font-size: 24rpx;
+  background: #f6e9e4;
+  flex: 1;
+}

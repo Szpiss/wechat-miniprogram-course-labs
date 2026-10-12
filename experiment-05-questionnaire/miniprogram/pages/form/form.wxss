@@ -1,0 +1,19 @@
+.question {
+  font-size: 30rpx;
+  font-weight: 600;
+  margin-bottom: 20rpx;
+}
+.option {
+  display: flex;
+  align-items: center;
+  padding: 18rpx 0;
+  gap: 20rpx;
+}
+textarea {
+  width: 100%;
+  height: 180rpx;
+}
+.status {
+  word-break: break-all;
+  padding: 24rpx 0;
+}

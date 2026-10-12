@@ -1,0 +1,11 @@
+{
+  "pages": ["pages/form/form"],
+  "window": {
+    "navigationBarTitleText": "调查问卷",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f4f6fa"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,23 @@
+{
+  "experiment": 3,
+  "results": [
+    {
+      "name": "按钮输入与小数运算",
+      "status": "PASS"
+    },
+    {
+      "name": "深色主题与本地记忆",
+      "status": "PASS"
+    },
+    {
+      "name": "除零错误与恢复",
+      "status": "PASS"
+    },
+    {
+      "name": "13位限制与科学计数法",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "at": "2026-10-12T04:41:26.161Z"
+}

@@ -1,0 +1,26 @@
+@import "/styles/common.wxss";
+page {
+  background: #fcf4ef;
+  color: #69494c;
+}
+.primary {
+  background: #ab5c64;
+}
+.card {
+  background: #fffaf7;
+}
+.music {
+  background: #f3ded9;
+  color: #8a4c56;
+  width: auto;
+  margin: 24rpx 0 0;
+}
+.hero {
+  width: 100%;
+  height: 340rpx;
+  border-radius: 24rpx;
+}
+.label {
+  display: block;
+  margin-top: 24rpx;
+}

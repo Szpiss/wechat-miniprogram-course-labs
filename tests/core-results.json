@@ -1,0 +1,82 @@
+[
+  {
+    "name": "计算器 0 . 1 + 0 . 2 =",
+    "status": "PASS"
+  },
+  {
+    "name": "计算器 8 ÷ 0 =",
+    "status": "PASS"
+  },
+  {
+    "name": "计算器 9 + × 2 =",
+    "status": "PASS"
+  },
+  {
+    "name": "计算器 2 + 3 × 4 =",
+    "status": "PASS"
+  },
+  {
+    "name": "计算器 5 ± + 2 =",
+    "status": "PASS"
+  },
+  {
+    "name": "计算器 1 . . 2",
+    "status": "PASS"
+  },
+  {
+    "name": "计算器 9 DEL",
+    "status": "PASS"
+  },
+  {
+    "name": "计算器 2 + 3 = =",
+    "status": "PASS"
+  },
+  {
+    "name": "计算器 9 9 9 9 9 9 9 9 9 9 9 9 9 9",
+    "status": "PASS"
+  },
+  {
+    "name": "计算器 9 9 9 9 9 9 9 9 9 9 9 9 9 × 9 =",
+    "status": "PASS"
+  },
+  {
+    "name": "错误后可重新输入",
+    "status": "PASS"
+  },
+  {
+    "name": "LRC多时间标签与排序",
+    "status": "PASS"
+  },
+  {
+    "name": "歌词定位边界",
+    "status": "PASS"
+  },
+  {
+    "name": "WXS电话格式",
+    "status": "PASS"
+  },
+  {
+    "name": "experiment-01-local-life 页面配置和素材",
+    "status": "PASS"
+  },
+  {
+    "name": "experiment-02-wedding 页面配置和素材",
+    "status": "PASS"
+  },
+  {
+    "name": "experiment-03-calculator 页面配置和素材",
+    "status": "PASS"
+  },
+  {
+    "name": "experiment-04-food-list 页面配置和素材",
+    "status": "PASS"
+  },
+  {
+    "name": "experiment-05-questionnaire 页面配置和素材",
+    "status": "PASS"
+  },
+  {
+    "name": "experiment-06-music-player 页面配置和素材",
+    "status": "PASS"
+  }
+]

@@ -1,0 +1,5 @@
+textarea {
+  width: 100%;
+}
+
+.container form.card{display:block;box-sizing:border-box;width:100%;}.container form.card input.field{width:100%;}

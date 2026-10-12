@@ -1,0 +1,5 @@
+video {
+  width: 100%;
+  height: 400rpx;
+  border-radius: 20rpx;
+}
