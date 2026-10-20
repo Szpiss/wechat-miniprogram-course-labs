@@ -10,11 +10,11 @@
     "allowed_changes": [
       {
         "field": "学号：",
-        "value": "2315302125"
+        "value": "2023000001"
       },
       {
         "field": "姓名：",
-        "value": "崔子霖"
+        "value": "张三"
       }
     ],
     "real_screenshots_embedded_unchanged": 3,
@@ -31,11 +31,11 @@
     "allowed_changes": [
       {
         "field": "学号：",
-        "value": "2315302125"
+        "value": "2023000001"
       },
       {
         "field": "姓名：",
-        "value": "崔子霖"
+        "value": "张三"
       }
     ],
     "real_screenshots_embedded_unchanged": 5,
@@ -52,11 +52,11 @@
     "allowed_changes": [
       {
         "field": "学号：",
-        "value": "2315302125"
+        "value": "2023000001"
       },
       {
         "field": "姓名：",
-        "value": "崔子霖"
+        "value": "张三"
       },
       {
         "field": "reference_picture_size"
@@ -79,11 +79,11 @@
     "allowed_changes": [
       {
         "field": "学号：",
-        "value": "2315302125"
+        "value": "2023000001"
       },
       {
         "field": "姓名：",
-        "value": "崔子霖"
+        "value": "张三"
       }
     ],
     "real_screenshots_embedded_unchanged": 4,
@@ -100,11 +100,11 @@
     "allowed_changes": [
       {
         "field": "学号：",
-        "value": "2315302125"
+        "value": "2023000001"
       },
       {
         "field": "姓名：",
-        "value": "崔子霖"
+        "value": "张三"
       },
       {
         "field": "reference_picture_size"
@@ -132,11 +132,11 @@
     "allowed_changes": [
       {
         "field": "学号：",
-        "value": "2315302125"
+        "value": "2023000001"
       },
       {
         "field": "姓名：",
-        "value": "崔子霖"
+        "value": "张三"
       }
     ],
     "real_screenshots_embedded_unchanged": 6,

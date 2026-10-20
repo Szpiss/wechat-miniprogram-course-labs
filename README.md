@@ -1,6 +1,6 @@
 # 微信公众平台开发课程六个实验
 
-本项目包含《微信公众平台开发》课程的六个独立微信小程序、四套本地Node.js服务、六份按学校原模板填写的实验报告，以及26张真实运行截图。学生：**崔子霖，2315302125**。
+本项目包含《微信公众平台开发》课程的六个独立微信小程序、四套本地Node.js服务、六份按学校原模板填写的实验报告，以及26张真实运行截图。学生：**张三，2023000001**。
 
 六个实验的必做功能已完成三个交付层次：代码与配置齐全；成功导入微信开发者工具并完成交互验收；代码、报告及运行截图相互对应。2026年10月12日的48项检查全部通过。运行证据来自开发者工具模拟器；实验5云开发选做已有代码，真实云部署尚未完成。
 
@@ -165,12 +165,12 @@ node experiment-06-music-player/server/index.js
 
 |实验|报告|运行截图|
 |---|---|---|
-|实验1|[下载填写后的Word报告](reports/2315302125%E5%B4%94%E5%AD%90%E9%9C%96%20%E5%AE%9E%E9%AA%8C1%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-01/)|
-|实验2|[下载填写后的Word报告](reports/2315302125%E5%B4%94%E5%AD%90%E9%9C%96%20%E5%AE%9E%E9%AA%8C2%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-02/)|
-|实验3|[下载填写后的Word报告](reports/2315302125%E5%B4%94%E5%AD%90%E9%9C%96%20%E5%AE%9E%E9%AA%8C3%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-03/)|
-|实验4|[下载填写后的Word报告](reports/2315302125%E5%B4%94%E5%AD%90%E9%9C%96%20%E5%AE%9E%E9%AA%8C4%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-04/)|
-|实验5|[下载填写后的Word报告](reports/2315302125%E5%B4%94%E5%AD%90%E9%9C%96%20%E5%AE%9E%E9%AA%8C5%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-05/)|
-|实验6|[下载填写后的Word报告](reports/2315302125%E5%B4%94%E5%AD%90%E9%9C%96%20%E5%AE%9E%E9%AA%8C6%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-06/)|
+|实验1|[下载填写后的Word报告](reports/2023000001%E5%BC%A0%E4%B8%89%20%E5%AE%9E%E9%AA%8C1%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-01/)|
+|实验2|[下载填写后的Word报告](reports/2023000001%E5%BC%A0%E4%B8%89%20%E5%AE%9E%E9%AA%8C2%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-02/)|
+|实验3|[下载填写后的Word报告](reports/2023000001%E5%BC%A0%E4%B8%89%20%E5%AE%9E%E9%AA%8C3%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-03/)|
+|实验4|[下载填写后的Word报告](reports/2023000001%E5%BC%A0%E4%B8%89%20%E5%AE%9E%E9%AA%8C4%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-04/)|
+|实验5|[下载填写后的Word报告](reports/2023000001%E5%BC%A0%E4%B8%89%20%E5%AE%9E%E9%AA%8C5%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-05/)|
+|实验6|[下载填写后的Word报告](reports/2023000001%E5%BC%A0%E4%B8%89%20%E5%AE%9E%E9%AA%8C6%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.docx)|[查看对应截图](screenshots/experiment-06/)|
 
 报告共67页，均已渲染核对。具体保留检查见[TEMPLATE_FIDELITY.md](TEMPLATE_FIDELITY.md)和[模板核对记录](tests/template-audit.json)。截图嵌入文件字节与原运行截图一致。
 

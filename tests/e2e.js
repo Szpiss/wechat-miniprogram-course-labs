@@ -16,7 +16,7 @@ async function route(url){await mp.evaluate(u=>{wx.switchTab({url:u});return tru
  const initial=i===2?'pages/invite/invite':i===4?'pages/shoplist/shoplist':i===5?'pages/form/form':'pages/index/index';if(p.path!==initial){await mp.evaluate(u=>{wx.reLaunch({url:u});return true},'/'+initial);await wait(async()=>{const q=await mp.currentPage();if(q.path===initial){p=q;return true}return false});await p.waitFor(500)}
  if(i===1){
  await record('九宫格与轮播显示',async()=>{assert.equal((await p.$$('.service')).length,9);assert.equal((await p.data('banners')).length,3);await shot('01-home')});
- await record('昵称设置与保存',async()=>{await input('.nickname','崔子霖');await choose('.nickname','blur',{value:'崔子霖'});assert.equal((await mp.callWxMethod('getStorageSync','profile')).nickname,'崔子霖');await shot('02-profile')});
+ await record('昵称设置与保存',async()=>{await input('.nickname','张三');await choose('.nickname','blur',{value:'张三'});assert.equal((await mp.callWxMethod('getStorageSync','profile')).nickname,'张三');await shot('02-profile')});
  await record('九宫格跳转和反馈',async()=>{await tap('.service[data-name="美食"]');await wait(async()=>{const page=await mp.currentPage();if(page.path==='pages/detail/detail'){p=page;return true}return false});assert.equal(await p.data('name'),'美食');await tap('.primary');await shot('03-detail')});
  }
  if(i===2){
